@@ -1,0 +1,4 @@
+GetTime what time is it
+GetTime what time it is
+GetTime what time it is in binary
+GetTime what time is it in binary
